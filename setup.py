@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "DOG-CAT-CLASSIFICATION"
 AUTHOR_NAME = "pradeeppvj8"
-SRC_REPO = "DOG-CAT-CLASSIFICATION"
+SRC_REPO = "dogCatClassifier"
 AUTHOR_EMAIL = "pradeep.pvj8@gmail.com"
 
 setuptools.setup(
